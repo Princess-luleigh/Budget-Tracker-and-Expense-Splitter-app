@@ -57,6 +57,3 @@ This application is deployed to GitHub Pages automatically using a GitHub Action
 
 The deployed site is available at: [https://Princess-luleigh.github.io/Budget-Tracker-and-Expense-Splitter-app/](https://Princess-luleigh.github.io/Budget-Tracker-and-Expense-Splitter-app/)
 
-## License
-
-[Specify your license here, e.g., MIT License] 
