@@ -3,7 +3,7 @@
     "private": true,
     "version": "0.0.0",
     "type": "module",
-    "homepage": "https://princess-luleigh.github.io/",
+    "homepage": "https://Princess-luleigh.github.io/Budget-Tracker-and-Expense-Splitter-app",
     "scripts": {
         "dev": "vite",
         "build": "vite build",

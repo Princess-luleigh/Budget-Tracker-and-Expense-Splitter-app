@@ -55,7 +55,7 @@ The app will be available at http://localhost:8080.
 
 This application is deployed to GitHub Pages automatically using a GitHub Actions workflow. Pushing changes to the `master` branch triggers the deployment process.
 
-The deployed site is available at: [https://princess-luleigh.github.io/](https://princess-luleigh.github.io/)
+The deployed site is available at: [https://Princess-luleigh.github.io/Budget-Tracker-and-Expense-Splitter-app/](https://Princess-luleigh.github.io/Budget-Tracker-and-Expense-Splitter-app/)
 
 ## License
 
