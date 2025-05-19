@@ -22,7 +22,7 @@ const App = () => {
         <Sonner />
         <BudgetProvider>
           <SidebarProvider>
-            <BrowserRouter>
+            <BrowserRouter basename="/Budget-Tracker-and-Expense-Splitter-app">
               <Routes>
                 <Route path="/" element={<AppLayout />}>
                   <Route index element={<Dashboard />} />
